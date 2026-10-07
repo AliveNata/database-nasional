@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+scraper/out/
+scraper/proxies.txt
+export/*.xlsx
+*.log

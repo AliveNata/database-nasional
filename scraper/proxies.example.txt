@@ -1,0 +1,5 @@
+# Satu proxy per baris. Salin ke scraper/proxies.txt (tidak di-commit) lalu isi
+# dari dashboard Decodo. Format:
+#   http://user:pass@gate.decodo.com:10001
+#   socks5://user:pass@gate.decodo.com:10002
+# Untuk IP Indonesia, ikuti format endpoint/negara yang ditunjukkan Decodo.
